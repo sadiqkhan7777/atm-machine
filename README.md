@@ -105,5 +105,5 @@ ahmed|zafar|4210199988881|Karachi|1234|5000.0
 Sadiq Khan
 Web Developer | Python Learner | OOP Enthusiast
 📧 Contact: [saiqkhan7777@gmail.com]
-🌐 LinkedIn: [linkedin.com/in/yourprofile]
+🌐 LinkedIn: [https://www.linkedin.com/in/sadiq-rashid-564375158/]
 💻 GitHub: [https://github.com/sadiqkhan7777]
