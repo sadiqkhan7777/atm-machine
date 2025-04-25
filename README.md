@@ -36,7 +36,7 @@ A console-based **ATM Machine System** created using Python with **Object-Orient
 2. Download or clone the project folder.
 
 ```bash
-git clone https://github.com/saiqkhan7777/atm-machine.git
+git clone https://github.com/sadiqkhan7777/atm-machine.git
 cd atm_machine
 
 python atm_machine.py
